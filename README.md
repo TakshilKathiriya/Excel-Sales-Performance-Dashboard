@@ -87,10 +87,11 @@ The dataset includes:
 
 ## 👨‍💻 Author
 
-**Takshil Patel**
+**Takshil Kathiriya**  
+🎓 IT Engineering Student
 
-GitHub: https://github.com/TakshilKathiriya
-
----
+- 🔗 **GitHub:** https://github.com/TakshilKathiriya
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/takshil-kathiriya-17a367284/
+- 📧 **Email:** takshilkathiriya2@gmail.com
 
 ⭐ If you found this project helpful, consider giving it a **Star**.
