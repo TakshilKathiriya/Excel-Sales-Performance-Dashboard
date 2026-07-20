@@ -23,7 +23,7 @@ An interactive Sales Performance Dashboard built in Microsoft Excel using Pivot 
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard]([Screenshots/dashboard.png](https://github.com/TakshilKathiriya/Excel-Sales-Performance-Dashboard/blob/main/dashboard.png))
 
 ## Project Structure
 
